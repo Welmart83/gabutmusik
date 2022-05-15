@@ -47,7 +47,7 @@ $ sudo su
 # apt-get install curl
 # curl -sL https://deb.nodesource.com/setup_16.x | bash - 
 # apt-get install ffmpeg python3-pip python3-virtualenv nodejs -y 
-# git clone https://github.com/Kayzyu/EnakeunMusic && cd EnakeunMusic 
+# git clone https://github.com/Welmart83/gabutmusik && cd gabutmusik 
 # virtualenv venv && . venv/bin/activate 
 # pip3 install --no-cache-dir -r requirements.txt 
 # cp sample.env .env 
